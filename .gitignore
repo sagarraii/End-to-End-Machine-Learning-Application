@@ -1,0 +1,20 @@
+# Virtual environments
+venv/
+env/
+.venv/
+e2e/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+
+# Datasets (large files)
+data/
+*.csv
+*.zip
